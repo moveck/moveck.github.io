@@ -2,7 +2,7 @@ baseURL = "https://moveck.github.io/"
 defaultContentLanguage = "zh-cn"
 languageCode = "zh-CN"
 hasCJKLanguage = true
-title = "Todo"
+title = "moveck的博客"
 theme = "DoIt"
 # enableGitInfo = true
 
@@ -30,11 +30,11 @@ theme = "DoIt"
 
 
 [params]
-  since = 1993
-  author = "kentxxq"                          
+  since = 2007
+  author = "moveck的博客"                          
   avatar = "/avatar.jpg"           
   subtitle = "Less is more"         
-  description = "kentxxq个人站点" 
+  description = "moveck的博客" 
   keywords = ["编码","生活","电影","音乐","过去","现在","将来"]
   
   version = "0.2.X"
@@ -43,7 +43,7 @@ theme = "DoIt"
 
   [params.app]
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "kentxxq"
+    title = "moveck的博客"
     # 是否隐藏网站图标资源链接
     noFavicon = false
     # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
@@ -125,9 +125,10 @@ theme = "DoIt"
     # 网站创立年份
     since = 1993
     # ICP 备案信息, 仅在中国使用 (支持 HTML 格式)
-    icp = '<a target="_blank" href="https://beian.miit.gov.cn">湘ICP备2021002319号-1</a>'
+    # icp = '<a target="_blank" href="https://beian.miit.gov.cn">湘ICP备2021002319号-1</a>'
     # 许可协议信息 (支持 HTML 格式)
-    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a> | <a target="_blank"href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=43010402000934"><img src="/备案图标.png" style="display: inline-block;"/>湘公网安备 43010402000934号</a>'
+    # license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a> | <a target="_blank"href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=43010402000934"><img src="/备案图标.png" style="display: inline-block;"/>湘公网安备 43010402000934号</a>'
+    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
   [params.section]
     # section 页面每页显示文章数量
@@ -180,7 +181,7 @@ theme = "DoIt"
 
   # 作者的社交信息设置
   [params.social]
-    GitHub = "kentxxq"
+    GitHub = "moveck"
     Linkedin = ""
     Twitter = ""
     Instagram = ""
@@ -223,7 +224,7 @@ theme = "DoIt"
     Strava = ""
     Skype = ""
     Whatsapp = ""
-    Zhihu = "kentxxq"
+    Zhihu = ""
     Douban = ""
     Angellist = ""
     Slidershare = ""
@@ -241,11 +242,11 @@ theme = "DoIt"
     Gitea = ""
     XMPP = ""
     Matrix = ""
-    Bilibili = "7892913"
+    Bilibili = ""
     ORCID = ""
     Liberapay = ""
     Ko-Fi = ""
-    Email = "admin@kentxxq.com"
+    Email = "2260325080@qq.com"
     RSS = true
 
   [params.page]
@@ -490,9 +491,9 @@ theme = "DoIt"
       server = ""
 
 [author]
-  name = "kentxxq"
-  email = "admin@kentxxq.com"
-  link = "https://kentxxq.com"
+  name = "moveck"
+  email = "2260325080@qq.com"
+  link = "https://moveck.github.io"
 
 # 网站地图配置
 [sitemap]
